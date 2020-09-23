@@ -1,2 +1,5 @@
-name = input("What is your name?)
-print name
+name = input("What is your name?")
+print(name)
+age = input("How old are you?")
+months = age * 12
+print("Your age in months is: " + months)
