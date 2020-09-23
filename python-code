@@ -2,4 +2,4 @@ name = input("What is your name?")
 print(name)
 age = input("How old are you?")
 months = age * 12
-print("Your age in months is: " + months)
+print("Your name is " + name + " and your age is " + months + " months.")
